@@ -1,0 +1,30 @@
+.box1 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: rgb(3, 44, 102);
+	height: 50vh;
+}
+.box1 h3 {
+	color: white;
+	margin-top: 70px;
+	font-size: 25px;
+}
+.box1 input {
+	width: 260px;
+	height: 30px;
+}
+.box1 button {
+	margin-left: 4px;
+	height: 35px;
+	width: 70px;
+}
+
+.box2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 47vh;
+	text-align: center;
+}
